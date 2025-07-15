@@ -1,4 +1,4 @@
-📊 Google Searches Data Analysis
+###📊 Google Searches Data Analysis
 
 
 This project involves analyzing Google Searches data to uncover trends, patterns, and insights related to search behavior over time. The dataset includes search interest metrics across different topics, regions, and timeframes.
